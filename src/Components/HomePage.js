@@ -7,7 +7,6 @@ const HomePage = () => {
 
   return (
     <>
-    <div style={{ height: '20px' }}></div>
     <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
         
       {subjects.map((subject, index) => (

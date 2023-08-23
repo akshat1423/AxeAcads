@@ -13,7 +13,7 @@ function App() {
     <Router>
       
       <Header />
-      <div style={{ paddingTop: '80px' }}>
+      <div style={{ paddingTop: '40px' }}>
         <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/:subject" element={<CoursesPage />} />
