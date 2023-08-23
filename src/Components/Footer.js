@@ -13,6 +13,7 @@ const Footer = () => {
       zIndex: 100,
     }}>
       <p>Made with love ♥ Akshat Jain</p>
+      <p>You might require to do google drive LDap sign in for some documents.</p>
       <p>If you have any material to be added to this website, please send it to:   
         <a href="mailto:akshatjiitb@gmail.com" style={{color: '#ffcc00'}}>  akshatjiitb@gmail.com</a>
       </p>

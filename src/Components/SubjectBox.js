@@ -13,6 +13,7 @@ const styles = {
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     borderRadius: '10px',
+    backgroundColor:"Blue",
     cursor: 'pointer',
   },
   overlay: {

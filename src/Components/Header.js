@@ -41,10 +41,16 @@ const Header = () => {
             <Link className="nav-link" to="/">Home</Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link" to="/about-me">About Me</Link>
+            <Link className="nav-link" to="/about">About Me</Link>
           </li>
           <li className="nav-item">
             <Link className="nav-link" to="https://akshat1423.github.io/diary/">Note Making</Link>
+          </li>
+          <li className="nav-item">
+            <Link className="nav-link" to="/help">Need any Help? Doubt? Query?</Link>
+          </li>
+          <li className="nav-item">
+            <Link className="nav-link" to="/suggestion">Suggestion? Experience? </Link>
           </li>
         </ul>
       </div>
