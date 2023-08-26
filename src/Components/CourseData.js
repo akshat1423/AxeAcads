@@ -8,5 +8,10 @@ export  const courseData = [
     {name: 'Organic Chemistry CH111', 
     Slides:"https://drive.google.com/drive/u/1/folders/1oMFHbw3ikM5YRLYVAkWaIEDUUsWkm3M8",
     Exam_Papers:"https://drive.google.com/drive/u/1/folders/1JVv1D5O7xgie3HlVfY8byGnQ-6SGWmvf", 
-    tutorials:"https://drive.google.com/drive/u/1/folders/1K1McWYZlXM2DZ4wzJhEAS8yOSjJDLrQO"}
+    tutorials:"https://drive.google.com/drive/u/1/folders/1K1McWYZlXM2DZ4wzJhEAS8yOSjJDLrQO"},
+    {name: 'C++ Theory', 
+    Slides:"https://www.cse.iitb.ac.in/~ajitvr/CS101_Fall2022/",
+    // Exam_Papers:"https://drive.google.com/drive/u/1/folders/1JVv1D5O7xgie3HlVfY8byGnQ-6SGWmvf", 
+    // tutorials:"https://drive.google.com/drive/u/1/folders/1K1McWYZlXM2DZ4wzJhEAS8yOSjJDLrQO"
+}
 ]
