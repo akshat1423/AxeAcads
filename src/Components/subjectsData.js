@@ -2,7 +2,7 @@ export  const subjects = [
     { 
       name: 'Chemistry', 
       bgImage: 'https://cdn.pixabay.com/photo/2017/11/11/11/30/chemistry-2938901_1280.jpg',
-      courses1: 'Organic Chemistry',
+      courses1: 'Organic Chemistry CH115',
       courses2: 'Inorganic Chemistry'
     },
     { 
