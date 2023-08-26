@@ -14,9 +14,10 @@ const CourseDetail = () => {
   return (
     <div style={{ margin: '20px', padding: '20px', border: '1px solid #ccc' }}>
       <h2>{course}</h2>
-      <p>Google Drive Links:</p>
-      <p>{matchedCourse.GoogleDriveLink}</p>
-      <p>PDFs:{matchedCourse.pdfLink}</p>
+      <p>Notes:</p>
+      <p>{matchedCourse.Notes}</p>
+      <p>Previous Year Papers:{matchedCourse.Exam_Papers}</p>
+      <p>Slides(previous batches):{matchedCourse.Slides}</p>
       <p>Tutorials:{matchedCourse.tutorials}</p>
       {/* <Latex> \( a^2 + b^2 = c^2 \) </Latex>
       <Latex> \( \int_0^1 x^2 dx \) </Latex> */}

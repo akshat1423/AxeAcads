@@ -2,7 +2,7 @@ export  const subjects = [
     { 
       name: 'Chemistry', 
       bgImage: 'https://cdn.pixabay.com/photo/2017/11/11/11/30/chemistry-2938901_1280.jpg',
-      courses1: 'Organic Chemistry CH115',
+      courses1: 'Organic Chemistry CH111',
       courses2: 'Inorganic Chemistry'
     },
     { 
@@ -20,20 +20,20 @@ export  const subjects = [
     { 
       name: 'Biology', 
       bgImage: 'https://cdn.pixabay.com/photo/2018/07/15/10/44/dna-3539309_1280.jpg',
-      courses1: 'Genetics',
-      courses2: 'Ecology'
+      courses1: 'Physical Biology',
+      courses2: 'Cellular Biology'
     },
     { 
       name: 'Computer Science', 
       bgImage: 'https://go.tiffin.edu/wp-content/uploads/2022/05/bs-computer-science-software-dev-2048x1489.jpg',
-      courses1: 'Data Structures',
-      courses2: 'Algorithms'
+      courses1: 'C++ Theory',
+      courses2: 'Labs'
     },
     { 
       name: 'HASMED', 
       bgImage: 'https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png',
-      courses1: 'Medical Ethics',
-      courses2: 'Healthcare Management'
+      courses1: 'Entrepunership',
+      courses2: 'Design'
     },
     { 
       name: 'Physics', 
@@ -44,14 +44,14 @@ export  const subjects = [
     { 
       name: 'Lab', 
       bgImage: 'https://cdn.pixabay.com/photo/2018/11/18/10/19/doctor-3822863_1280.jpg',
-      courses1: 'Lab Safety',
-      courses2: 'Experimental Methods'
+      courses1: 'Chemical',
+      courses2: 'Physical'
     },
     { 
       name: 'DIC', 
       bgImage: 'https://static.zollege.in/public/college_data/images/campusimage/14352969241.jpg?tr=h-590,w-1048,c-force',
-      courses1: 'Digital Imaging',
-      courses2: 'Communication Systems'
+      courses1: 'Chemical',
+      courses2: 'Civil'
     }
   ];
   
