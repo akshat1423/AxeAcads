@@ -40,8 +40,6 @@ const CourseDetail = () => {
   }
 </p>
 
-      {/* <Latex> \( a^2 + b^2 = c^2 \) </Latex>
-      <Latex> \( \int_0^1 x^2 dx \) </Latex> */}
 
       {/* You can render LaTeX content here. Use a package like react-latex or something similar */}
     </div>
