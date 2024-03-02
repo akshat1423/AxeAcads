@@ -15,7 +15,7 @@ function App() {
       <Header />
       <div style={{ paddingTop: '40px' }}>
         <Routes>
-        <Route path="/AxeAcads" element={<HomePage />} />
+        {/* <Route path="/" element={<HomePage />} /> */}
         <Route path="/" element={<HomePage />} />
         <Route path="/:subject" element={<CoursesPage />} />
         <Route path="/:subject/:course" element={<CourseDetail />} />
